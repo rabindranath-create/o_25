@@ -49,7 +49,7 @@ for (i in 1:100) {
   )
 }
 
-saveRDS(results_0, file.path(output_dir, "data_50_1_0.rds"))
+saveRDS(results_0, file.path(output_dir, "data_25_1_0.rds"))
 
 
 
@@ -78,7 +78,7 @@ for (i in 1:100) {
   )
 }
 
-saveRDS(results_05, file.path(output_dir, "data_50_1_05.rds"))
+saveRDS(results_05, file.path(output_dir, "data_25_1_05.rds"))
 
 
 
@@ -107,7 +107,7 @@ for (i in 1:100) {
   )
 }
 
-saveRDS(results_1, file.path(output_dir, "data_50_1_1.rds"))
+saveRDS(results_1, file.path(output_dir, "data_25_1_1.rds"))
 
 
 
@@ -135,7 +135,7 @@ for (i in 1:100) {
   )
 }
 
-saveRDS(results_15, file.path(output_dir, "data_50_1_15.rds"))
+saveRDS(results_15, file.path(output_dir, "data_25_1_15.rds"))
 
 
 
@@ -163,7 +163,7 @@ for (i in 1:100) {
   )
 }
 
-saveRDS(results_2, file.path(output_dir, "data_50_1_2.rds"))
+saveRDS(results_2, file.path(output_dir, "data_25_1_2.rds"))
 
 
 
@@ -191,7 +191,7 @@ for (i in 1:100) {
   )
 }
 
-saveRDS(results_25, file.path(output_dir, "data_50_1_25.rds"))
+saveRDS(results_25, file.path(output_dir, "data_25_1_25.rds"))
 
 
 
@@ -221,7 +221,7 @@ for (i in 1:100) {
   )
 }
 
-saveRDS(results_3, file.path(output_dir, "data_50_1_3.rds"))
+saveRDS(results_3, file.path(output_dir, "data_25_1_3.rds"))
 
 
 
@@ -249,7 +249,7 @@ for (i in 1:100) {
   )
 }
 
-saveRDS(results_35, file.path(output_dir, "data_50_1_35.rds"))
+saveRDS(results_35, file.path(output_dir, "data_25_1_35.rds"))
 
 
 
@@ -278,7 +278,7 @@ for (i in 1:100) {
   )
 }
 
-saveRDS(results_4, file.path(output_dir, "data_50_1_4.rds"))
+saveRDS(results_4, file.path(output_dir, "data_25_1_4.rds"))
 
 
 
